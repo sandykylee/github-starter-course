@@ -1,4 +1,4 @@
-The Basics of GitHub 
+The Basics of GitHub for Dummies
 
 ## 🤓 Course overview and learning outcomes 
 
