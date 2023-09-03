@@ -1,4 +1,4 @@
-# :wave: The Basics of GitHub 
+The Basics of GitHub 
 
 # :smiley: This is an edit to the previous version to try to push a change in the forked repo
 
